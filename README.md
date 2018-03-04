@@ -1,2 +1,4 @@
 # hello-world
 My first repository, one stop on my coding journey.
+
+I'm still very new to coding, I've done HTML and a bit of CSS through Code Academy but am just getting started on the Odin Project as well. I'm interested in learning coding because I'm looking for a creative career path where I can be more in control of my job options. This isn't the first time I've wanted to switch careers, but it is the first time I've put in consistent effort into making it a possibility. I have been working as a florist since college and while I have a decent job with decent pay I don't see myself in that line of work forever and the job prospects are pretty limited. Coding appeals to me because it is still creative and I love the gratification of entering a line of code and seeing how it instantly changes what I'm building.
